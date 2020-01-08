@@ -1,0 +1,17 @@
+push 전에 pull있다
+
+
+pull  (자료를 당겨오는것)
+
+git pull origin master ( 지정해 놓은 Reposittory에서 끌어옵니다)
+
+
+push (자료를 올리는것)
+
+git status (현재 Git 과의 상태를 Check )
+
+git add. (변경된 파일들을 모두 Tracking)
+
+git commit-m "massage" (인식 할 수있는 commit을 달아줍니다.)
+
+git push origin +master (실제로 Git 에서 push )
